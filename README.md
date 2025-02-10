@@ -45,3 +45,4 @@ Este projeto implementa um sistema interativo utilizando a placa BitDogLab RP204
 
 ## Autor
 Este projeto foi desenvolvido por **Maria Clara Simoes de Jesus** para consolidar conhecimentos sobre microcontroladores e comunicação serial com o RP2040.
+link para o vídeo: https://drive.google.com/file/d/1_o3W4jWcDBdlUesoLE85-1UOK_SJyXS9/view?usp=sharing
